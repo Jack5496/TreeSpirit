@@ -1,0 +1,6 @@
+name: TreeSpirit
+main: com.jack.treespirit.Core
+version: 1.0
+commands:
+  tree:
+    usage: /tree help
